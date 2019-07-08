@@ -1,0 +1,39 @@
+<resources>
+    <string name="action_settings">Settings</string>
+
+    <string name="btnExit">Exit</string>
+    <string name="btnOpenConfig">System Configuration</string>
+    <string name="btnOpenSensorListener">Active Sensors</string>
+
+    <string name="config_label_name">Name:</string>
+    <string name="config_label_phone">Phone:</string>
+    <string name="config_label_email">E-mail:</string>
+    <string name="config_label_extra_info">Extra info:</string>
+    <string name="config_label_language">Language:</string>
+    <string name="config_label_address">Addresss:</string>
+    <string name="config_label_save">Save</string>
+    <string name="config_label_back">Back</string>
+    <string name="config_label_email_sample">E-mail address</string>
+    <string name="config_label_name_sample">Name</string>
+    <string name="config_label_phone_sample">51 85 97189282</string>
+    <string name="config_label_address_sample">Rua Sousa Girão, 210, Fortaleza CE</string>
+    <string name="config_label_language_sample">Brasil Português</string>
+    <string-array name="config_array_language">
+        <item >Español</item>
+        <item >Português do Brasil</item>
+        <item >English</item>
+    </string-array>
+    <string name="config_data_not_set">The system must be pre-configured to activate the sensors and monitor your activity</string>
+    <string name="config_data_set">System successfully configurated</string>
+    <string name="config_info_load_ko">You must config your system!</string>
+    <string name="config_info_save_ko_email">Error: must be a valid e-mail!</string>
+    <string name="config_info_save_ok">Configuration successfully set!</string>
+    <string name="email_alert_subject">(URGENT) Fall detected</string>
+    <string name="email_alert_body">A fall was detected, please provide as fast as you can a medical assistance.</string>
+
+    <string name="sensor_fall_detected">A fall was detected.</string>
+    <string name="sensor_fall_possible">Possible fall detected, are you OK?</string>
+    <string name="sensor_moviment_detected">Moviment detected.</string>
+    <string name="sensor_alert_sent">A fall was detected, we are calling an emergency phone!</string>
+    <string name="sensor_monitoring">Monitoring activity!</string>
+</resources>

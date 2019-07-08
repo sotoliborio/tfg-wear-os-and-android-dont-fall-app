@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DONTFALL</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_config">Configuración</string>
+    <string name="vacio"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="type_here">Type Here</string>
+    <string name="search_view">Search View</string>
+</resources>
